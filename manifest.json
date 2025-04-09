@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Virasto",
+    "version": "PRE-ALPHA",
+    "description": "Virayeshi baraye to",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+  }
+  
